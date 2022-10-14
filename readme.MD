@@ -66,3 +66,6 @@ Eu sou uma desenvolvedora com experiência, aprendi a programar sozinha mas esto
 - [ ] [Transformando seu conhecimento em Artigos Técnicos](https://web.dio.me/course/transformando-seu-conhecimento-em-artigos-tecnicos/learning/c41d2747-681f-4b03-adc5-048606660af8?back=/track/potencia-tech-powered-ifood-java-beginners&tab=undefined&moduleId=undefined)
 - [ ] [Se preparando para uma entrevista](https://web.dio.me/course/se-preparando-para-uma-entrevista/learning/331205d5-9e2b-4c17-b0af-764d288e4fa3?back=/track/potencia-tech-powered-ifood-java-beginners&tab=undefined&moduleId=undefined)
 - [ ] [convite iFood javaBeginner](https://web.dio.me/course/convite-para-o-minha-carreira-tech-potencia-tech-powered-by-ifood/learning/6a21e925-2432-409a-861d-9a3a5a3048c6?back=/track/potencia-tech-powered-ifood-java-beginners&tab=undefined&moduleId=undefined)
+
+# posts para ultima semana
+- [ ] dica de reforço: Bytelegend
