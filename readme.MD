@@ -23,7 +23,7 @@ Eu sou uma desenvolvedora com experiência, aprendi a programar sozinha mas esto
 
 - [x] Introdução à Plataforma Java
 - [x] Ambiente de Desenvolvimento Java
-- [ ] [Aprendendo a Sintaxe Java](https://web.dio.me/course/aprendendo-a-sintaxe-java/learning/f7af647f-d6ef-4663-8a3c-1f63129ee55f?back=/track/potencia-tech-powered-ifood-java-beginners&tab=undefined&moduleId=undefined)
+- [x] Aprendendo a Sintaxe Java
 - [x] Lógica Condicional e Controle de Fluxos em Java
 - [x] Estruturas de Repetição e Arrays em Java
 - [x] Entendendo Métodos Java
